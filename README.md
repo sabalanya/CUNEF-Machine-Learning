@@ -1,6 +1,6 @@
 # CUNEF Machine Learning Course
 
-Welcome to the Machine Learning course repository for the Bachelor's program in Business Administration at CUNEF Universidad.
+Welcome to the Machine Learning course repository for CUNEF Universidad Students.
 
 ## About This Course
 
@@ -155,7 +155,6 @@ Found a typo or error? Have a suggestion for improvement? Contributions are welc
 
 **Course Instructor**: Sergio Álvarez Balanyá\
 **Email**: sergio.abalanya@cunef.edu\
-**Office Hours**: [TBD]
 
 **Institution**: CUNEF Universidad\
 **Program**: Bachelor's in Business Administration (ADE) \
