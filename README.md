@@ -46,7 +46,7 @@ Hands-on implementation of various ML algorithms including decision trees, regre
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| *Coming soon...* | | |
+| **02 - Preprocessing California Dataset** | Data cleaning, imputation, normalization, and categorization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabalanya/CUNEF-Machine-Learning/blob/main/part2_dataprocessing/02_preprocessing_california.ipynb) |
 
 ### Part 3: Machine Learning Implementations
 
