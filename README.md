@@ -52,7 +52,7 @@ Hands-on implementation of various ML algorithms including decision trees, regre
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| *Coming soon...* | | |
+| **01 - KNN Regression** | Implementing KNN regression from scratch and evaluating performance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabalanya/CUNEF-Machine-Learning/blob/main/part3_mlmodels/01_knn.ipynb) |
 
 ---
 
